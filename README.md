@@ -11,7 +11,7 @@ from mpl_toolkits.mplot3d import Axes3D
 from scipy import optimize
 ```
 
-##**Data Process**
+## **Data Process**
 -We used Nedler-Mead simplex algorithm method to minimize a non-linear function contianing two varaibles 
 -We Define the objective function that wll minimw3**
 -Next we create a grid of values that we can plot our objective function
@@ -22,8 +22,10 @@ from scipy import optimize
 - We used the minimize routine from the optimize package to find minimum value.
 - Finally we plot the minimum value found by the minimize routine on the top of the objective function surface.
 
-##**Issues**
--None
+## **Issues**
+None
+
+
 
 ## **Contributing**
 For major changes, feel free to discuss, and contribute, and make appropriate test.
