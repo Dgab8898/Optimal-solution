@@ -1,7 +1,7 @@
 # **Task Description**
 
-Differential calculus can be used to analyse and applied to to complex problems in our society. Calculus has made and will continue to make significant contributions to every field of human endeavour that uses quantitative measurement to further its aims. 
-In this task we will examine optimisation problems, where a quantity is to be maximised or minimised. These problems arise both outside and within mathematics, for example in the construction of water line through different region.
+Differential calculus can be used to analyse and applied to to complex problems in our society, its continue to make contributions to every field. 
+In this task we will examine optimisation problems, where a quantity is to be maximised or minimised. These problems arise both outside and within mathematics, e.g in the construction of water line through different region.
 
 ## **Load Packages**
 
