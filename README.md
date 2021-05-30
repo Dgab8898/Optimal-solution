@@ -13,7 +13,7 @@ from scipy import optimize
 ```
 
 ## **Data Process**
--We used Nedler-Mead simplex algorithm method to minimize a non-linear function contianing two varaibles 
+- We used Nedler-Mead simplex algorithm method to minimize a non-linear function contianing two varaibles 
 -We Define the objective function that wll minimw3**
 -Next we create a grid of values that we can plot our objective function
 - then we evaluate the function on this grid of points:
