@@ -37,12 +37,12 @@ Copyright (C) 2021 David Gabriel
 ```
 
 ## **Credit**
-I am sitting on the gaint shoulders of authors and programmers
+I am sitting on the gaint shoulders of authors and programmers.
 
 ## **Further reading & References**
 - James Stewart - Calculus, Early Transcendantals, International Metric Edition-CENGAGE learning 2016\
 - Robert A.Adams Christopher Essex - Calculus A Complete Course\
-- Sam Morley - Receipe for solving computational Problems(2020)
+- Sam Morley - Applying Math with Python Receipe for solving computational Problems(2020)
 
 
 
